@@ -1,5 +1,5 @@
 ## Yourplan - ToDoList
-## Created with Laravel 10 & Jetstream
+Created with Laravel 10 & Jetstream
 
 
 
