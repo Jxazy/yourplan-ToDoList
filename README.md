@@ -1,5 +1,5 @@
-<p> Yourplan - ToDoList</p>
-<p> Created with Laravel 10 & Jetstream</p>
+## Yourplan - ToDoList
+## Created with Laravel 10 & Jetstream
 
 
 
